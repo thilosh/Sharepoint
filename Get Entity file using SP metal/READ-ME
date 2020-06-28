@@ -1,0 +1,6 @@
+This code helps you to get the entity files of the site which you will require while quering through Linq.
+Place this entity file in your VS project and you can query the lists using Sharepoint Linq.
+Before you try this you need to add Microsoft.SharePoint.dll into your project and add the reference of the same in your code.
+Later on you can use the Linq to get the data from any list in the site as show above .
+Linq is very fexible and very fast than any other methods compared to Spquery or the SharePoint object model .
+It has few other advantages like complete sorting as well as filtering the data is also fast and easy in Linq.
