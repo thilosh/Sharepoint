@@ -1,0 +1,6 @@
+SiteCollectionURL,Group,GroupDescription,PermissionLevel,Users,Scope,ListName
+http://siteURL/,Group1,test group,Read,"domain\user1,domain\user2",Site,
+http://siteURL/,Group2,test group,Contribute,"domain\user1,domain\user2",Site,
+http://siteURL/,Group3,test group,Full Control,"domain\user1,domain\user2",Site,
+http://siteURL/,Group2,test group,Contribute,"domain\user1,domain\user2",List,ListA
+http://siteURL/,Group3,test group,Full Control,"domain\user1,domain\user2",List,ListA

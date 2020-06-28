@@ -1,0 +1,4 @@
+SiteCollectionURL,Name,TempleteName,Description,ContentTypes
+http://siteURL/,TH-List1,DocumentLibrary,This is a test list,"TH-CT1,TH-CT2"
+http://siteURL/,TH-List2,DocumentLibrary,This is a test list,TH-CT1
+http://siteURL/,TH-List3,DocumentLibrary,This is a test list,TH-CT2

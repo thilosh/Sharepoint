@@ -1,0 +1,16 @@
+SiteCollectionURL,FieldType,Name,Description,DisplayName,StaticName,Group,Hidden,Required,Sealed,ShowInDisplayForm,ShowInEditForm,ShowInListSettings,ShowInNewForm,Choice,Default,MaxChar,MinValueNo,MaxValueNo,DateFieldType
+http://siteURL/,Text,THI1,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI1,THI1,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,,3,,,
+http://siteURL/,Choice,THI2,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI2,THI2,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,"""A2,B2,C2""",B2,,,,
+http://siteURL/,Text,THI3,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI3,THI3,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,,,,,
+http://siteURL/,Choice,THI4,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI4,THI4,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,"""A4,B4,C4""",,,,,
+http://siteURL/,Number,THI5,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI5,THI5,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,,,10,999,
+http://siteURL/,Number,THI6,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI6,THI6,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,,,,,
+http://siteURL/,Note,THI7,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI7,THI7,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,,,,,
+http://siteURL/,Note,THI8,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI8,THI8,EICM Site Columns,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,,,,,,
+http://siteURL/,DateTime,THI9,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI9,THI9,EICM Site Columns,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,,[today],,,,DateOnly
+http://siteURL/,DateTime,THI10,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI10,THI10,EICM Site Columns,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,,[today],,,,DateTime
+http://siteURL/,DateTime,THI11,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI11,THI11,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,,,,,DateOnly
+http://siteURL/,Boolean,THI12,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI12,THI12,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,,
+http://siteURL/,Boolean,THI13,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI13,THI13,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,FALSE,,,,
+http://siteURL/,People,THI14,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI14,THI14,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,,,,,
+http://siteURL/,People,THI15,The Location Name is a secondary Unique Corporate ID given to a Real Estate Location,THI15,THI15,EICM Site Columns,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,,,,,

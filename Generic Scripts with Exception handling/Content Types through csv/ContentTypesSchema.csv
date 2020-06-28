@@ -1,0 +1,17 @@
+SiteCollectionURL,Type,Name,Parent,Group,Description,Action
+http://siteURL/,ContentType,TH-CT1,Document,Thilosh,Test CT,
+http://siteURL/,Column,THI1,TH-CT1,,,Add
+http://siteURL/,Column,THI3,TH-CT1,,,Add
+http://siteURL/,Column,THI4,TH-CT1,,,Add
+http://siteURL/,ContentType,TH-CT2,TH-CT1,Thilosh,TH-CT2,
+http://siteURL/,Column,THI10,TH-CT2,,,Add
+http://siteURL/,Column,THI9,TH-CT2,,,Add
+http://siteURL/,Column,THI4,TH-CT2,,,Delete
+http://siteURL/,ContentType,TH-CT3,TH-CT1,Thilosh,TH-CT2,
+http://siteURL/,Column,THI10,TH-CT3,,,Add
+http://siteURL/,Column,THI9,TH-CT3,,,Add
+http://siteURL/,Column,THI5,TH-CT3,,,Delete
+http://siteURL/,ContentType,TH-CT4,TH-CT1,Thilosh,TH-CT4,
+http://siteURL/,Column,THI10,TH-CT4,,,Add
+http://siteURL/,Column,THI9,TH-CT4,,,Add
+http://siteURL/,Column,THI5,TH-CT4,,,Delete
