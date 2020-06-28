@@ -1,0 +1,8 @@
+cd C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\BIN
+
+1)Open Command Prompt run--> 
+	spmetal /web:http://sitename /code:entities.cs
+2)Open-->
+	C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\BIN
+3)Copy the file entities.cs into the project.
+4)Call the references.
