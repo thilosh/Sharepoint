@@ -1,0 +1,8 @@
+Attched is the power-shell script which can be used to add expiration/Retention policy in any version of Microsoft sharepoint on-prem through powershell.
+This helps in moving the policy from one environment to other in a very easy and hassle free way.
+              
+Below power shell script adds the expiration policy to the Content Type at the site collection level ,This is designed to add at Site collection level because this
+can be run in the Content Hub hosting site and the policy can be migrated to other site collections which are leveraging the Hub.You can make the necessary changes to 
+the script to add the policy at the "Library level" or" to the "content type " at the library level by instantiating the suitable object .
+      The script below add the expiration policy like "DocumentDate+0 days" move to "Recycle bin"
+"DocumentDate" is my custom column of DateTime type field.
