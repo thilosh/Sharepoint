@@ -1,0 +1,24 @@
+If there a requirement to create a very large number of SharePoint Site column, Content Types, List and security permissions group. There are different ways which you can achieve this.
+1.	Through UI
+2.	Through Code (.cs) files using SharePoint object model
+3.	Through elemet.xml the template provided in VS
+4.	Through PowerShell
+ 
+So instead of creating a PowerShell script which is specific to your project. U can just create a script which is generic and can be used by other people
+ 
+This consists of CSV files which has schema for each of Site column, Content type, list creation and permission definition for the site.
+each has PowerShell scripts which pulls the data from the respective CSV files and runs on the site collection provided in CSV,
+ 
+The CSV has samples, you can edit those or add new entries into the CSV.
+ 
+This will help in Bulk creation of SharePoint site columns, Content types etc. with ease!!
+ 
+ 
+Steps to run the script are
+1.	Site Columns
+2.	Content types
+3.	Lists
+4.	Permissions
+
+PS : project has hosted in my TechNet gallery since 11/18/2014 , moving into GitHub due to EOL for Technet gallery
+
