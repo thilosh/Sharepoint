@@ -15,7 +15,7 @@ Bulk creation of Sharepoint Site Columns,Content Types ,Lists and permission hel
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Code-2
+Code-3
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Get the Entity file using SP metal to query the list using Linq - probably this decomissioned now and of not a big help
 read more about it in readme file
